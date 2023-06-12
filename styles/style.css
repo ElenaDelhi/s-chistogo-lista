@@ -1,4 +1,4 @@
-body, h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
+h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 	margin: 0;
 	padding: 0;
 }
@@ -8,6 +8,7 @@ body {
 	font-family: 'Inter', 'Arial', sans-serif;
 	font-size: 16px;
 	line-height: 22px;
+	margin: 0;
 }
 
 .content-section {
