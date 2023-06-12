@@ -64,7 +64,7 @@ body {
 }
 
 .cover__title {
-	font-family: 'Ebgaramond', 'Arial', sans-serif;
+	font-family: 'EB Garamond', 'Arial', sans-serif;
 	font-size: 72px;
 	font-weight: 400;
 	line-height: 100%;
@@ -115,7 +115,7 @@ body {
 }
 
 .content-section__subtitle {
-	font-family: 'Ebgaramond Medium', 'Arial', sans-serif;
+	font-family: 'EB Garamond', 'Arial', sans-serif;
 	font-size: 28px;
 	line-height: 32px;
 	font-weight: 500;
@@ -181,7 +181,7 @@ body {
 
 .card__title {
 	padding-bottom: 8px;
-	font-family: 'Ebgaramond Medium', 'Arial', sans-serif;
+	font-family: 'EB Garamond', 'Arial', sans-serif;
 	font-weight: 500;
 	font-size: 22px;
 	line-height: 135%;
