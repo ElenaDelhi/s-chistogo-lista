@@ -7,6 +7,9 @@
       format('woff'),
     url(./ebgaramondmedium.ttf)
       format('truetype');
+
+	font-weight: 500;
+	font-style: normal;
 }
 
 @font-face {
@@ -18,6 +21,9 @@
       format('woff'),
     url(./ebgaramondregular.ttf)
       format('truetype');
+
+	font-weight: 400;
+	font-style: normal;
 }
 
 
@@ -30,6 +36,9 @@
       format('woff'),
     url(./interbold.ttf)
       format('truetype');
+
+	font-weight: 700;
+	font-style: normal;
 }
 
 @font-face {
@@ -41,4 +50,7 @@
       format('woff'),
     url(./interregular.ttf)
       format('truetype');
+
+	font-weight: 400;
+	font-style: normal;
 }
